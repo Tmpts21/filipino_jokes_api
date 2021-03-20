@@ -27,9 +27,9 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 
 
 
-##| :memo:        | Mahalagang palala : 
-                  Ang pinakamataas na makukuha mong joke ay sampu lamang |
-|---------------|:------------------------|
+| :memo:        | Mahalagang palala :                                                             |
+|               |              Ang pinakamataas na makukuha mong joke ay sampu lamang             |
+|---------------|:--------------------------------------------------------------------------------|
 
 
 ### Pano mag ambagbag ng joke ❓ 
