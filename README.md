@@ -26,8 +26,8 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 [https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)
 
 
-##
-| :memo:        | Mahalagang palala : Ang pinakamataas na makukuha mong joke ay sampu lamang      |
+
+| #:memo:        | #Mahalagang palala : Ang pinakamataas na makukuha mong joke ay sampu lamang      |
 |---------------|:--------------------------------------------------------------------------------|
 
 
