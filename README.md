@@ -11,7 +11,7 @@
 [https://filipino-jokes-api.herokuapp.com/random/ten](https://filipino-jokes-api.herokuapp.com/random/ten)
 
 
-### kumuha ng random na jokes base sa kung ilan ang gusto   `/random/:number`
+### kumuha ng random na jokes base sa kung ilan ang gusto  
 Ang endpoint ay `/random/:number`
 [https://filipino-jokes-api.herokuapp.com/random/5](https://filipino-jokes-api.herokuapp.com/random/5)
 
@@ -21,17 +21,14 @@ Ang endpoint ay  `random_jokes/:dialect`
 [https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog)
 
 
-### kumuha ng random jokes base sa dayalekto at kung ilan ang iyong gusto `random_jokes/:dialect/:number`
+### kumuha ng random jokes base sa dayalekto at kung ilan ang iyong gusto 
 Ang endpoint ay `random_jokes/:dialect/:number`
-[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)__
+[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)
 
 
 
-
-
-|  :memo:       |Mahalagang palala : Ang pinakamataas na makukuha mong joke ay sampu lamang      |
-|---------------|:-------------------------------------------------------------------------------|__
-
+### Mahalagang paalala : 
+> Ang pinakamataas na makukuha mong joke ay sampu lamang 
 
 
 
