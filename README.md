@@ -1,9 +1,9 @@
 # Filipino jokes api 
 ### Lahat ng joke na nandito ay na scraped ko sa web, at yung iba ay personal kong paborito.
 
-## Endpoints 🍿
+## 🍿 Endpoints 🍿
 
-### Grab a random joke! Kumuha ng random joke 
+### Kumuha ng random joke 
 [https://filipino-jokes-api.herokuapp.com/random](https://filipino-jokes-api.herokuapp.com/random)
 
 
