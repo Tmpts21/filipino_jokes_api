@@ -27,8 +27,11 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 
 
 
+
+
 |  :memo:       |Mahalagang palala : Ang pinakamataas na makukuha mong joke ay sampu lamang      |
 |---------------|:-------------------------------------------------------------------------------|
+
 
 
 
@@ -81,7 +84,8 @@ Sa yong ngiti akoy nahuhu MALING
 ## Paganahin sa iyong sariling computer 💻🤙
 
 ```
-git clone 
+git clone https://github.com/Tmpts21/filipino_jokes_api.git
+cd filipino_jokes_api
 npm install 
 node server.js
 ```
