@@ -8,7 +8,7 @@ const randomJoke = () => {
 const randomJokeByDialect = (dialect) => { 
 
     const dialectJokes =  jokes.filter((joke) => {   
-        return joke.kjdialect === dialect  
+        return joke.dialect === dialect  
     });     
 
     if (dialectJokes.length <= 0 ) {   
