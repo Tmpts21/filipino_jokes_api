@@ -23,14 +23,14 @@ Ang endpoint ay  `random_jokes/:dialect`
 
 ### kumuha ng random jokes base sa dayalekto at kung ilan ang iyong gusto `random_jokes/:dialect/:number`
 Ang endpoint ay `random_jokes/:dialect/:number`
-[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)
+[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)__
 
 
 
 
 
 |  :memo:       |Mahalagang palala : Ang pinakamataas na makukuha mong joke ay sampu lamang      |
-|---------------|:-------------------------------------------------------------------------------|
+|---------------|:-------------------------------------------------------------------------------|__
 
 
 
