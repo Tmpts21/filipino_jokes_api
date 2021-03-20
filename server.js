@@ -11,7 +11,6 @@ const limiter = rateLimit({
 });
 
 app.use(limiter);
-app.use(express.static('public'))
 
 const {randomJoke , nRandomJokes, nRandomJokesByDialect , randomJokeByDialect, _10randomJokes} = require('./handler')  
 
