@@ -1,5 +1,5 @@
 # Filipino jokes api 😂
-** Lahat ng joke na nandito ay scraped from web, some of them are my personal favorites. ** 
+** Lahat ng joke na nandito ay scraped from web, some of them are my personal favorites. 
 
 ## Endpoints 🍿
 
@@ -38,7 +38,7 @@ req = requests.get('https://filipino-jokes-api.herokuapp.com/random').json()
 print(req) 
 
 '''
-{'id': 199, 'dialect': 'bisaya', 'joke': ['2 ka mg amigo:', 'Boy1: Pre ngano ng hilaka ka man?', 'Boy2: Huhu kay gibiya.an ko sakong uyab pre.', 'Boy1: Aw mao bah? asa man diay paingon emu uyab pre?']}
+{'id': 319, 'dialect': 'tagalog', 'joke': ['Knock knock', 'Whos there', 'Meatloaf', 'Meatloaf who', 'Sa yong ngiti akoy nahuhu MALING']}
 '''
 
 #lets parse the joke 
@@ -46,12 +46,13 @@ for joke in req['joke'] :
   print(joke)
   
 '''
-boy:may pick up ako sayo
-babae:ano..? (kinikilig)
-boy:gus2 ko lng ngayong pasko PSP mo
-babae:bkit...?
-boy:Pasko Sa Piling mo
+Knock knock
+Whos there
+Meatloaf
+Meatloaf who
+Sa yong ngiti akoy nahuhu MALING
 
+'''
 
 ```
 
