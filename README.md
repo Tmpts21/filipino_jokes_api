@@ -32,6 +32,8 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 > 
 <br>
 
+<hr>
+
 
 
 
