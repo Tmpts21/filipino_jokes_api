@@ -28,11 +28,13 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 
 
 |  :memo:       |Mahalagang palala : Ang pinakamataas na makukuha mong joke ay sampu lamang      |
-|---------------|:--------------------------------------------------------------------------------|
+|---------------|:-------------------------------------------------------------------------------|
+
+
 
 
 ### Pano mag ambagbag ng joke ❓ 
-** Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jokes.json` na file . Siguraduhin na ganito ang format katulad ng na sa ibaba. 👏
+Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jokes.json` na file . Siguraduhin na ganito ang format katulad ng na sa ibaba. 👏
 
 ```javascript
 {
@@ -48,7 +50,9 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 }
 ```
 
-### Halimbawa gamit ang python programming language 🔥
+
+# Halimbawa 🤯 : 
+###  Gamit ang python programming language 🔥
 
 ```python
 import requests 
@@ -72,6 +76,14 @@ Sa yong ngiti akoy nahuhu MALING
 
 '''
 
+```
+
+## Paganahin sa iyong sariling computer 💻🤙
+
+```
+git clone 
+npm install 
+node server.js
 ```
 
 
