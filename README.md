@@ -13,17 +13,17 @@
 
 
 ### kumuha ng random na jokes base sa kung ilan ang gusto  
-Ang endpoint ay `/random/:number`
+Ang endpoint ay `/random/:number`.
 [https://filipino-jokes-api.herokuapp.com/random/5](https://filipino-jokes-api.herokuapp.com/random/5)
 
 
 ### Kumuha ng random jokes base sa dayalekto
-Ang endpoint ay  `random_jokes/:dialect`
+Ang endpoint ay  `random_jokes/:dialect`.
 [https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog)
 
 
 ### kumuha ng random jokes base sa dayalekto at kung ilan ang iyong gusto 
-Ang endpoint ay `random_jokes/:dialect/:number`
+Ang endpoint ay `random_jokes/:dialect/:number`.
 [https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)
 
 
