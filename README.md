@@ -4,19 +4,26 @@
 ## Endpoints 🍿
 
 ### Grab a random joke! 
-[https://filipino-jokes-api.herokuapp.com/random]
+[https://filipino-jokes-api.herokuapp.com/random](https://filipino-jokes-api.herokuapp.com/random)
+
 
 ### Grab a random joke! 
-[https://filipino-jokes-api.herokuapp.com/random/ten]
+[https://filipino-jokes-api.herokuapp.com/random/ten](https://filipino-jokes-api.herokuapp.com/random/ten)
+
+
 
 ### Grab a random joke by n!  `/random/:number`
-[https://filipino-jokes-api.herokuapp.com/random/5]
+[https://filipino-jokes-api.herokuapp.com/random/5](https://filipino-jokes-api.herokuapp.com/random/5)
+
 
 ### Grab a random joke by dialect `random_jokes/:dialect`
-[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog]
+[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog)
+
 
 ### Grab a random joke by dialect and by n `random_jokes/:dialect/:number`
-[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5]
+[https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)
+
+
 
 ### Pano mag ambagbag ng joke ❓ 
 ** Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jokes.json` na file . Siguraduhin na ganito ang format katulad ng na sa ibaba. 👏
