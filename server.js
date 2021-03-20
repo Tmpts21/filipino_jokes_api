@@ -33,7 +33,7 @@ app.get('/random/ten' , ( req , res ) => {
     res.json(_10randomJokes());
 });  
 
-// grab random jokes based on number specified in params  
+// grab random jokes based on number
 app.get('/random/:number' , (req , res ) => {   
     // I put undefined in the first param so that it will use the default parameter i specified 
     res.json(nRandomJokes(undefined , req.params.number))
@@ -44,7 +44,7 @@ app.get('/random_jokes/:dialect' , (req , res  )  => {
     res.json(randomJokeByDialect(req.params.dialect))
 }); 
 
-// grab random joke based on dialect and number specified in the params   
+// grab random joke based on dialect and number  
 app.get('/random_jokes/:dialect/:number' , (req , res  )  => {      
     res.json(nRandomJokesByDialect(req.params.dialect , req.params.number ))
 
