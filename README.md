@@ -91,6 +91,7 @@ git clone https://github.com/Tmpts21/filipino_jokes_api.git
 cd filipino_jokes_api
 npm install 
 node server.js
+at mag punta sa http://localhost:8000/random/
 ```
 
 
