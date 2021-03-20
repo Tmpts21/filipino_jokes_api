@@ -1,27 +1,30 @@
 # Filipino jokes api 😂
-** Lahat ng joke na nandito ay scraped from web, some of them are my personal favorites. 
+### Lahat ng joke na nandito ay scraped from web, some of them are my personal favorites. 
 
 ## Endpoints 🍿
 
-### Grab a random joke! 
+### Grab a random joke! Kumuha ng random joke 
 [https://filipino-jokes-api.herokuapp.com/random](https://filipino-jokes-api.herokuapp.com/random)
 
 
-### Grab a random joke! 
+### Kumuha ng sampung random na jokes  
 [https://filipino-jokes-api.herokuapp.com/random/ten](https://filipino-jokes-api.herokuapp.com/random/ten)
 
 
-
-### Grab a random joke by n!  `/random/:number`
+### kumuha ng random na jokes base sa kung ilan ang gusto   `/random/:number`
 [https://filipino-jokes-api.herokuapp.com/random/5](https://filipino-jokes-api.herokuapp.com/random/5)
 
 
-### Grab a random joke by dialect `random_jokes/:dialect`
+### Kumuha ng random jokes base sa dayalekto `random_jokes/:dialect`
 [https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog)
 
 
-### Grab a random joke by dialect and by n `random_jokes/:dialect/:number`
+### kumuha ng random jokes base sa dayalekto at kung ilan ang iyong gusto `random_jokes/:dialect/:number`
 [https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5](https://filipino-jokes-api.herokuapp.com/random_jokes/tagalog/5)
+
+
+!!! note 
+  Ang pinakamataas na joke na pwede mong makuha ay hangang sampu lamang 👍
 
 
 
