@@ -13,7 +13,7 @@
 
 
 ### kumuha ng random na jokes base sa kung ilan ang gusto  
-Ang endpoint ay `/random/:number`.
+Ang endpoint ay `/random/:number`__
 [https://filipino-jokes-api.herokuapp.com/random/5](https://filipino-jokes-api.herokuapp.com/random/5)
 
 
