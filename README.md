@@ -39,7 +39,7 @@ Ang endpoint ay `random_jokes/:dialect/:number`<br>
 
 
 
-# Pano mag ambagbag ng joke ❓ 
+# Pano mag ambag ng iyong nakakatawang joke ❓ 
 Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jokes.json` na file . Siguraduhin na ganito ang format katulad ng na sa ibaba. 👏
 
 ```javascript
