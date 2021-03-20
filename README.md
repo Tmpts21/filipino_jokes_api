@@ -28,7 +28,7 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 
 
 ### Mahalagang paalala : 
-> Ang pinakamataas na makukuha mong joke ay sampu lamang 
+> Ang pinakamataas na makukuha mong joke ay sampu lamang 😉
 
 
 
