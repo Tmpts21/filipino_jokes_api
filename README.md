@@ -3,7 +3,7 @@
 
 
 # 🍿 Endpoints 🍿
-<hr>
+
 ### Kumuha ng random joke 
 [https://filipino-jokes-api.herokuapp.com/random](https://filipino-jokes-api.herokuapp.com/random)
 
@@ -30,7 +30,7 @@ Ang endpoint ay `random_jokes/:dialect/:number`
 <br>
 ### Mahalagang paalala : 
 > Ang pinakamataas na makukuha mong joke ay sampu lamang 😉
-> 
+
 <br>
 
 <hr>
