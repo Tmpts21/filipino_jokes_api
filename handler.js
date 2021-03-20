@@ -1,4 +1,4 @@
-const jokes = require('./jokes/validated.json')  
+const jokes = require('./jokes/jokes.json')  
 
 
 const randomJoke = () => { 
