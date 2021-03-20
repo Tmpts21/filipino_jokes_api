@@ -31,9 +31,14 @@
 ```javascript
 {
   "id": nth id  + 1,
-  "dialect": "tagalog",
-  "setup": "What's the best thing about a Boolean?",
-  "punchline": "Even if you're wrong, you're only off by a bit."
+  "dialect": "bisaya",
+  "joke": [
+          "Inahan: Daghana og lung-ag, apila ang iring ug iro..",
+          "Anak: OK, Ma.",
+          "(pagkataud-taud)",
+          "Inahan: Hoi Inatay! Nganong duna’y iring sa nilung-ag?",
+          "Anak: Apil gani unta ang iro, wala lang jud masud.."
+          ]
 }
 ```
 
