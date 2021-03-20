@@ -1,4 +1,4 @@
-# Filipino jokes api 😂
+# Filipino jokes api :philippines
 ### Lahat ng joke na nandito ay scraped from web, some of them are my personal favorites. 
 
 ## Endpoints 🍿
