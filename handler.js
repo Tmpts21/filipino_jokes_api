@@ -57,8 +57,10 @@ const _10randomJokes = () => {
     return nRandomJokes(jokes , 10 ); 
 }  
 
-const isNumber = (n) => {  
-    // checks if the n is a valid integer 
+const isNumber = (n) => {    
+    // checks if the n is a  positive integer   
+    return /^\d+$/.test(n); 
+
     return  /^-?[\d.]+(?:e-?\d+)?$/.test(n); 
 } 
 
