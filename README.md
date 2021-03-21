@@ -1,6 +1,5 @@
 # Filipino jokes api 
-### Lahat ng joke na nandito ay na scraped naten 
-sa web, samantalang ang iba ay personal kong paborito.
+### Lahat ng joke na nandito ay na scraped naten sa web, samantalang ang iba ay personal kong paborito.
 
 
 # 🍿 Endpoints 🍿
