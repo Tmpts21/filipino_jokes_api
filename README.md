@@ -84,7 +84,7 @@ Sa yong ngiti akoy nahuhu MALING
 
 ```
 
-## Paganahin sa iyong sariling computer 💻🤙
+## Paganahin sa iyong sariling kompyuter 💻🤙
 
 ```
 git clone https://github.com/Tmpts21/filipino_jokes_api.git
