@@ -64,6 +64,11 @@ Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jok
 
 $ curl https://filipino-jokes-api.herokuapp.com/random
 
+{
+"id":299,
+"dialect":"tagalog",
+"joke":["May joke ako about pizza, Kaso baka di ko ma-deliver"]
+}
 ```
 
 ###  Gamit ang python programming language 🔥
