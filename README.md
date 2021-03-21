@@ -31,6 +31,7 @@ Ang endpoint ay `random_jokes/:dialect/:number`<br>
 
 **Mahalagang paalala** :
 > Ang pinakamataas na makukuha mong joke ay sampu lamang 😉
+> ( Sa ngayon bisaya at tagalog pa lamang ang dayalektong suportado ng ating api. 
 
 <br>
 
