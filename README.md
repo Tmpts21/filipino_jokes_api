@@ -8,11 +8,11 @@
 [https://filipino-jokes-api.herokuapp.com/random](https://filipino-jokes-api.herokuapp.com/random)
 
 
-### Kumuha ng sampung random na jokes  
+### Kumuha ng sampung random jokes  
 [https://filipino-jokes-api.herokuapp.com/random/ten](https://filipino-jokes-api.herokuapp.com/random/ten)
 
 
-### kumuha ng random na jokes base sa kung ilan ang gusto  
+### kumuha ng random jokes base sa kung ilan ang gusto  
 Ang endpoint ay `/random/:number` <br>
 [https://filipino-jokes-api.herokuapp.com/random/5](https://filipino-jokes-api.herokuapp.com/random/5)
 
