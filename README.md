@@ -59,7 +59,7 @@ Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jok
 
 
 # Halimbawa 🤯 : 
-### Gamit ang cUrl
+### Gamit cUrl
 ```
 
 $ curl https://filipino-jokes-api.herokuapp.com/random
