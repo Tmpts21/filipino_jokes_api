@@ -61,7 +61,6 @@ const isNumber = (n) => {
     // checks if the n is a  positive integer   
     return /^\d+$/.test(n); 
 
-    return  /^-?[\d.]+(?:e-?\d+)?$/.test(n); 
 } 
 
 
