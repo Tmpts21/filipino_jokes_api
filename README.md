@@ -41,7 +41,7 @@ Ang endpoint ay `random_jokes/:dialect/:number`<br>
 
 
 # Pano mag ambag ng iyong nakakatawang joke ❓ 
-Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jokes.json` na file . Siguraduhin na ganito ang format katulad ng na sa ibaba. 👏
+Mag pasa lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jokes.json` na file . Siguraduhin na ganito ang format katulad ng na sa ibaba. 👏
 
 ```javascript
 {
@@ -59,7 +59,7 @@ Mag submit lamang ng pull request kasama ang joke na naidagdag mo sa `/jokes/jok
 
 
 # Halimbawa 🤯 : 
-### Gamit ang cUrl
+### Gamit cUrl
 ```
 
 $ curl https://filipino-jokes-api.herokuapp.com/random
