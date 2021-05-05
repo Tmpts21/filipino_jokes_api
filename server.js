@@ -13,10 +13,10 @@ app.use(limiter);
 
 const {randomJoke , nRandomJokes, nRandomJokesByDialect , randomJokeByDialect, _10randomJokes} = require('./handler')  
 
-app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  next();
-});   
+// app.use((req, res, next) => {
+//   res.header('Access-Control-Allow-Origin', '*');
+//   next();
+// });   
 
 
 app.get('/' , (req , res ) => { 
