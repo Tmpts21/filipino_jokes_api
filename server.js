@@ -15,7 +15,6 @@ const options = {
 
   methods: [
     'GET',
-    'POST',
   ],
 
   allowedHeaders: [
