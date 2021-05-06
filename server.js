@@ -11,7 +11,7 @@ const limiter = rateLimit({
 });
 
 app.use(limiter); 
-app.use(cors);
+app.use(cors());
 
 const {randomJoke , nRandomJokes, nRandomJokesByDialect , randomJokeByDialect, _10randomJokes} = require('./handler')  
 
