@@ -8,10 +8,23 @@ const cors = require('cors')
 const limiter = rateLimit({
   windowMs: 30 * 60 * 1000,
   max: 30 
-});
+});  
+
+const options = {
+  origin: '*',
+
+  methods: [
+    'GET',
+    'POST',
+  ],
+
+  allowedHeaders: [
+    'Content-Type',
+  ],
+};
 
 app.use(limiter); 
-app.use(cors());
+app.use(cors(options));
 
 const {randomJoke , nRandomJokes, nRandomJokesByDialect , randomJokeByDialect, _10randomJokes} = require('./handler')  
 
