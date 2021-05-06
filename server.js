@@ -15,10 +15,10 @@ app.use(cors);
 
 const {randomJoke , nRandomJokes, nRandomJokesByDialect , randomJokeByDialect, _10randomJokes} = require('./handler')  
 
-app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
-  next();
-});   
+// app.use((req, res, next) => {
+//   res.header('Access-Control-Allow-Origin', '*');
+//   next();
+// });   
 
 app.get('/' , (req , res ) => { 
      res.send("allowed endpoints [ /random , /random/ten , /random/:number , /random_jokes/:dialect , /random_jokes/:dialect/:number ] ")  
