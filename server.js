@@ -1,6 +1,7 @@
 const express = require('express');  
 const rateLimit = require("express-rate-limit"); 
-const app = express() ;          
+const app = express() ;           
+const cors = require('cors')
 
 app.set('trust proxy', 1);
 
@@ -9,7 +10,8 @@ const limiter = rateLimit({
   max: 30 
 });
 
-app.use(limiter);
+app.use(limiter); 
+app.use(cors);
 
 const {randomJoke , nRandomJokes, nRandomJokesByDialect , randomJokeByDialect, _10randomJokes} = require('./handler')  
 
